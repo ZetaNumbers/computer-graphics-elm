@@ -1,0 +1,21 @@
+{
+  "main.css": "/computer-graphics-elm/static/css/main.89763d65.chunk.css",
+  "main.js": "/computer-graphics-elm/static/js/main.392357ce.chunk.js",
+  "main.js.map": "/computer-graphics-elm/static/js/main.392357ce.chunk.js.map",
+  "runtime~main.js": "/computer-graphics-elm/static/js/runtime~main.4eec1a21.js",
+  "runtime~main.js.map": "/computer-graphics-elm/static/js/runtime~main.4eec1a21.js.map",
+  "vendors~main.js": "/computer-graphics-elm/static/js/vendors~main.0b49ec49.chunk.js",
+  "vendors~main.js.map": "/computer-graphics-elm/static/js/vendors~main.0b49ec49.chunk.js.map",
+  "./service-worker.js": "/computer-graphics-elm/./service-worker.js",
+  "Cone.obj": "/computer-graphics-elm/Cone.obj",
+  "Cube.obj": "/computer-graphics-elm/Cube.obj",
+  "Cylinder.obj": "/computer-graphics-elm/Cylinder.obj",
+  "Snowman.blend": "/computer-graphics-elm/Snowman.blend",
+  "Snowman.obj": "/computer-graphics-elm/Snowman.obj",
+  "Sphere.obj": "/computer-graphics-elm/Sphere.obj",
+  "Torus.obj": "/computer-graphics-elm/Torus.obj",
+  "favicon.ico": "/computer-graphics-elm/favicon.ico",
+  "index.html": "/computer-graphics-elm/index.html",
+  "manifest.json": "/computer-graphics-elm/manifest.json",
+  "precache-manifest.869967582aa7ffcf44e3fb454d258264.js": "/computer-graphics-elm/precache-manifest.869967582aa7ffcf44e3fb454d258264.js"
+}
