@@ -1,0 +1,14 @@
+{
+  "entrypoints": [
+    "./src/Main.elm",
+    "./src/Camera.elm",
+    "./src/Camera/Controller.elm",
+    "./src/Canvas.elm",
+    "./src/Canvas/MeshOptions.elm",
+    "./src/MeshMask.elm",
+    "./src/Shaders.elm",
+    "./src/Vertex.elm",
+    "./src/ParsedVec.elm",
+    "./src/Utils.elm"
+  ]
+}
