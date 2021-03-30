@@ -1,3 +1,3 @@
 module.exports = {
-    // homepage: "https://zetanumbers.github.io/computer-graphics-elm"
+    homepage: "https://zetanumbers.github.io/computer-graphics-elm"
 }
